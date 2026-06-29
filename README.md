@@ -40,6 +40,8 @@ Les données du jeu sont encore dans `Variables.swift`. C'est volontairement tr�
 
 Ouvrir `MWS.xcodeproj` dans Xcode, puis lancer la cible `MWS` sur un simulateur iPhone. Le projet vise iOS 17.
 
+Le dossier local `Musique/`, qui contenait les MP3 utilisés pendant le prototype, n'est pas inclus dans ce dépôt public. Il était lourd et surtout pas adapté à une publication GitHub ouverte. Pour tester le mode musique avec ses propres sons, il faut ajouter des fichiers `.mp3` dans le bundle Xcode et garder les noms alignés avec les entrées de `Variables.swift`.
+
 En ligne de commande :
 
 ```bash
