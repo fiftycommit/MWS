@@ -14,21 +14,21 @@ Chaque manche garde une pression assez directe : trois essais, un timer, un cham
 
 Le détail visuel que je voulais vraiment garder, c'est le fond qui change avec les covers. Sur l'accueil, deux pochettes sont tirées au hasard, puis l'app récupère leur couleur moyenne pour construire un dégradé. Ça donne un écran qui ne reste jamais exactement pareil.
 
-![Accueil clair](docs/images/accueil-pochette-claire.png)
+<img src="docs/images/accueil-pochette-claire.png" alt="Accueil clair" width="260">
 
-![Accueil sombre](docs/images/accueil-pochette-sombre.png)
+<img src="docs/images/accueil-pochette-sombre.png" alt="Accueil sombre" width="260">
 
 Dans les menus de jeu, le même principe sert aussi à accorder les textes et les fonds avec les images affichées. Certaines pochettes donnent un rendu froid, d'autres tirent vers des couleurs plus chaudes ou plus sombres.
 
-![Menu pochette](docs/images/menu-pochette.png)
+<img src="docs/images/menu-pochette.png" alt="Menu pochette" width="260">
 
-![Menu musique](docs/images/menu-musique.png)
+<img src="docs/images/menu-musique.png" alt="Menu musique" width="260">
 
 En partie, l'idée reste lisible : la cover ou le symbole audio prend la place principale, le chrono reste visible, et l'interface garde juste ce qu'il faut pour répondre vite.
 
-![Partie musique](docs/images/partie-musique.png)
+<img src="docs/images/partie-musique.png" alt="Partie musique" width="260">
 
-![Partie pochette](docs/images/partie-pochette.png)
+<img src="docs/images/partie-pochette.png" alt="Partie pochette" width="260">
 
 ## Technique
 
