@@ -1,0 +1,21 @@
+.DS_Store
+
+# Xcode
+build/
+DerivedData/
+*.xcuserstate
+*.xcscmblueprint
+xcuserdata/
+
+# Local assistant notes
+.claude/
+CLAUDE.md
+
+# Local audio library used while prototyping
+/Musique/
+
+# Swift Package Manager
+.build/
+
+# macOS temporary files
+*.swp
